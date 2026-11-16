@@ -1,6 +1,6 @@
 """
 =============================================================================
- PowerTimer v2.3 - Streamlined macOS Dark System Power Scheduler
+ PowerTimer v2.3 - Streamlined Modern System Power Scheduler
  Sidebar + 1-2-3 Linear UX Flow | Google Sans Font | Vector Icons
  Crash-proof, clean, fully functional
 =============================================================================
@@ -1432,7 +1432,7 @@ class ModernPowerTimer(QMainWindow):
         icon = QIcon(vector_icons.draw_vector_icon("app", 32))
         self.setWindowIcon(icon)
         self.tray_icon.setIcon(icon)
-        self.tray_icon.setToolTip("PowerTimer - macOS Dark Edition")
+        self.tray_icon.setToolTip("PowerTimer - System Power Scheduler")
 
         menu = QMenu()
         menu.setStyleSheet("""
@@ -1478,7 +1478,7 @@ class ModernPowerTimer(QMainWindow):
 # ---------------------------------------------------------------------------
 def main():
     try:
-        myappid = 'antigravity.powertimer.macdark.2.3'
+        myappid = 'antigravity.powertimer.scheduler.2.3'
         ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
     except Exception:
         pass

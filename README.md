@@ -1,8 +1,8 @@
 # PowerTimer
 
-> Modern macOS Dark Style System Power Scheduler for Windows.
+> Modern, crash-proof system automation and power scheduler for Windows.
 
-PowerTimer is an open-source, crash-proof power scheduler for Windows built with PyQt6, featuring a modern macOS dark interface, custom vector glyphs, and Google Sans typography.
+PowerTimer is an open-source, reliable system power scheduling utility for Windows built with PyQt6, featuring a modern dark interface, crisp custom vector glyphs, and Google Sans typography.
 
 ![PowerTimer Preview](assets/preview.png)
 
