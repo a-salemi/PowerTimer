@@ -2,9 +2,23 @@
 
 > Modern, crash-proof system automation and power scheduler for Windows.
 
+[![Release](https://img.shields.io/github/v/release/a-salemi/PowerTimer?color=2563EB&style=flat-square)](https://github.com/a-salemi/PowerTimer/releases)
+[![Download](https://img.shields.io/badge/Download-PowerTimer.exe_(v1.0.0)-10B981?style=flat-square&logo=windows)](https://github.com/a-salemi/PowerTimer/releases/download/v1.0.0/PowerTimer.exe)
+[![License](https://img.shields.io/badge/License-MIT-blue.style=flat-square)](LICENSE)
+
 PowerTimer is an open-source, reliable system power scheduling utility for Windows built with PyQt6, featuring a modern dark interface, crisp custom vector glyphs, and Google Sans typography.
 
 ![PowerTimer Preview](assets/preview.png)
+
+---
+
+## 📥 Direct Download (Windows x64)
+
+No Python installation required. Just download and run:
+
+- 🚀 **[Download PowerTimer v1.0.0 (.exe)](https://github.com/a-salemi/PowerTimer/releases/download/v1.0.0/PowerTimer.exe)** (Standalone Binary)
+- 📦 **[All Releases & Changelog](https://github.com/a-salemi/PowerTimer/releases)**
+- ⚡ **[Latest Version Download](https://github.com/a-salemi/PowerTimer/releases/latest/download/PowerTimer.exe)**
 
 ---
 
@@ -39,7 +53,7 @@ Download the latest standalone `PowerTimer.exe` from the [Releases](../../releas
 ### Option 2: Run from Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PowerTimer.git
+   git clone https://github.com/a-salemi/PowerTimer.git
    cd PowerTimer
    ```
 2. Install dependencies:
