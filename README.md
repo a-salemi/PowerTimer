@@ -10,6 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![GUI](https://img.shields.io/badge/GUI-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![Version](https://img.shields.io/badge/Version-v1.0.0-2563EB?style=flat-square)](https://github.com/a-salemi/PowerTimer/releases)
+[![Direct Download](https://img.shields.io/badge/Download-PowerTimer.exe-10B981?style=flat-square&logo=windows&logoColor=white)](https://github.com/a-salemi/PowerTimer/releases/download/v1.0.0/PowerTimer.exe)
 [![License](https://img.shields.io/badge/License-MIT-F59E0B?style=flat-square)](LICENSE)
 
 <br />
